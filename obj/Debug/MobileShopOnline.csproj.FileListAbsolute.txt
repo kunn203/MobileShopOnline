@@ -1,0 +1,405 @@
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\MobileShopOnline.dll.config
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\MobileShopOnline.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\MobileShopOnline.pdb
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\csc.exe
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\csc.rsp
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\csi.exe
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\csi.rsp
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Console.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Net.Http.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\vbc.exe
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\System.Web.Razor.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\WebGrease.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\System.Web.Razor.xml
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\obj\Debug\MobileShopOnline.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\obj\Debug\MobileShopOnline.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\obj\Debug\MobileShopOnline.csproj.CopyComplete
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\obj\Debug\MobileShopOnline.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\obj\Debug\MobileShopOnline.pdb
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\EntityFramework.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\EntityFramework.xml
+C:\Users\ASUS\Desktop\HUFLIT\Lâp trình web\MobileShopOnline\MobileShopOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\MobileShopOnline.dll.config
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\MobileShopOnline.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\MobileShopOnline.pdb
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\csc.exe
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\csc.rsp
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\csi.exe
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\csi.rsp
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Console.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Net.Http.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\vbc.exe
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\EntityFramework.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\System.Web.Razor.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\WebGrease.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\EntityFramework.xml
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\System.Web.Razor.xml
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\obj\Debug\MobileShopOnline.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\obj\Debug\MobileShopOnline.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\obj\Debug\MobileShopOnline.csproj.CopyComplete
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\obj\Debug\MobileShopOnline.dll
+C:\Users\ASUS\Desktop\backup\MobileShopOnline\MobileShopOnline\obj\Debug\MobileShopOnline.pdb
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\MobileShopOnline.dll.config
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\MobileShopOnline.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\MobileShopOnline.pdb
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\csc.exe
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\csc.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\csc.rsp
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\csi.exe
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\csi.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\csi.rsp
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Console.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\vbc.exe
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\vbc.rsp
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\EntityFramework.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\System.Web.Helpers.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\System.Web.Mvc.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\System.Web.Optimization.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\System.Web.Razor.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\System.Web.WebPages.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\WebGrease.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\EntityFramework.xml
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\System.Web.Helpers.xml
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\System.Web.Mvc.xml
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\System.Web.Optimization.xml
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\System.Web.Razor.xml
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\System.Web.WebPages.xml
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\obj\Debug\MobileShopOnline.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\obj\Debug\MobileShopOnline.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\obj\Debug\MobileShopOnline.csproj.CopyComplete
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\obj\Debug\MobileShopOnline.dll
+C:\Users\Admin\Documents\Zalo Received Files\MobileShopOnline\MobileShopOnline\obj\Debug\MobileShopOnline.pdb
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\MobileShopOnline.dll.config
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\MobileShopOnline.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\MobileShopOnline.pdb
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\csc.exe
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\csc.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\csc.rsp
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\csi.exe
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\csi.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\csi.rsp
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Console.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\vbc.exe
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\vbc.rsp
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\EntityFramework.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\System.Web.Helpers.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\System.Web.Mvc.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\System.Web.Optimization.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\System.Web.Razor.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\System.Web.WebPages.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\WebGrease.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\EntityFramework.xml
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\System.Web.Helpers.xml
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\System.Web.Mvc.xml
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\System.Web.Optimization.xml
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\System.Web.Razor.xml
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\System.Web.WebPages.xml
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\obj\Debug\MobileShopOnline.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\obj\Debug\MobileShopOnline.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\obj\Debug\MobileShopOnline.csproj.CopyComplete
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\obj\Debug\MobileShopOnline.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-tu van du hoc\MobileShopOnline\MobileShopOnline\obj\Debug\MobileShopOnline.pdb
+D:\Web\MobileShopOnline\MobileShopOnline\bin\MobileShopOnline.dll.config
+D:\Web\MobileShopOnline\MobileShopOnline\bin\MobileShopOnline.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\MobileShopOnline.pdb
+D:\Web\MobileShopOnline\MobileShopOnline\bin\roslyn\csc.exe
+D:\Web\MobileShopOnline\MobileShopOnline\bin\roslyn\csc.exe.config
+D:\Web\MobileShopOnline\MobileShopOnline\bin\roslyn\csc.rsp
+D:\Web\MobileShopOnline\MobileShopOnline\bin\roslyn\csi.exe
+D:\Web\MobileShopOnline\MobileShopOnline\bin\roslyn\csi.exe.config
+D:\Web\MobileShopOnline\MobileShopOnline\bin\roslyn\csi.rsp
+D:\Web\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Web\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\Web\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Web\MobileShopOnline\MobileShopOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Web\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Buffers.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Collections.Immutable.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Memory.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Numerics.Vectors.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Reflection.Metadata.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\roslyn\vbc.exe
+D:\Web\MobileShopOnline\MobileShopOnline\bin\roslyn\vbc.exe.config
+D:\Web\MobileShopOnline\MobileShopOnline\bin\roslyn\vbc.rsp
+D:\Web\MobileShopOnline\MobileShopOnline\bin\roslyn\VBCSCompiler.exe
+D:\Web\MobileShopOnline\MobileShopOnline\bin\roslyn\VBCSCompiler.exe.config
+D:\Web\MobileShopOnline\MobileShopOnline\bin\Antlr3.Runtime.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\Docker.DotNet.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\EntityFramework.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\EntityFramework.SqlServer.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\Microsoft.Web.Infrastructure.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\Newtonsoft.Json.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\System.Buffers.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\System.Threading.Tasks.Extensions.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\System.Web.Helpers.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\System.Web.Mvc.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\System.Web.Optimization.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\System.Web.Razor.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\System.Web.WebPages.Deployment.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\System.Web.WebPages.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\System.Web.WebPages.Razor.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\WebGrease.dll
+D:\Web\MobileShopOnline\MobileShopOnline\bin\Docker.DotNet.pdb
+D:\Web\MobileShopOnline\MobileShopOnline\bin\EntityFramework.xml
+D:\Web\MobileShopOnline\MobileShopOnline\bin\EntityFramework.SqlServer.xml
+D:\Web\MobileShopOnline\MobileShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Web\MobileShopOnline\MobileShopOnline\bin\Newtonsoft.Json.xml
+D:\Web\MobileShopOnline\MobileShopOnline\bin\System.Buffers.xml
+D:\Web\MobileShopOnline\MobileShopOnline\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Web\MobileShopOnline\MobileShopOnline\bin\System.Threading.Tasks.Extensions.xml
+D:\Web\MobileShopOnline\MobileShopOnline\bin\System.Web.Helpers.xml
+D:\Web\MobileShopOnline\MobileShopOnline\bin\System.Web.Mvc.xml
+D:\Web\MobileShopOnline\MobileShopOnline\bin\System.Web.Razor.xml
+D:\Web\MobileShopOnline\MobileShopOnline\bin\System.Web.WebPages.xml
+D:\Web\MobileShopOnline\MobileShopOnline\bin\System.Web.WebPages.Deployment.xml
+D:\Web\MobileShopOnline\MobileShopOnline\bin\System.Web.WebPages.Razor.xml
+D:\Web\MobileShopOnline\MobileShopOnline\bin\System.Web.Optimization.xml
+D:\Web\MobileShopOnline\MobileShopOnline\bin\Antlr3.Runtime.pdb
+D:\Web\MobileShopOnline\MobileShopOnline\obj\Debug\MobileShopOnline.csproj.AssemblyReference.cache
+D:\Web\MobileShopOnline\MobileShopOnline\obj\Debug\MobileShopOnline.csproj.CoreCompileInputs.cache
+D:\Web\MobileShopOnline\MobileShopOnline\obj\Debug\MobileSh.7ADBCE15.Up2Date
+D:\Web\MobileShopOnline\MobileShopOnline\obj\Debug\MobileShopOnline.dll
+D:\Web\MobileShopOnline\MobileShopOnline\obj\Debug\MobileShopOnline.pdb
